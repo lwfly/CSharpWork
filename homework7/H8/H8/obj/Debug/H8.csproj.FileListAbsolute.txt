@@ -1,0 +1,9 @@
+C:\Users\shine of heart\source\repos\H8\H8\bin\Debug\H8.exe.config
+C:\Users\shine of heart\source\repos\H8\H8\bin\Debug\H8.exe
+C:\Users\shine of heart\source\repos\H8\H8\bin\Debug\H8.pdb
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.csprojAssemblyReference.cache
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.Form1.resources
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.Properties.Resources.resources
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.csproj.GenerateResource.cache
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.exe
+C:\Users\shine of heart\source\repos\H8\H8\obj\Debug\H8.pdb
